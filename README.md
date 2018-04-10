@@ -1,12 +1,11 @@
-# NodeJS secure RESTFUL api
+# NodeJS  RESTFUL api
 
-A minimal, secure RESTFUL api for NodeJS. This project includes user login, access control of objects, and encrypted hashing of passwords right out of the box! Just delete the example model, add your own, and run!
+A minimal, RESTFUL api for NodeJS.
 
 # Installation
 
 * Clone the repo by using ```git clone```.
 * Run ```npm install``` on the cloned directory.
-* Add APIs using the instructions below to suit your needs.
 
 # Running the software
 
